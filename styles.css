@@ -104,7 +104,7 @@ section .text .subtitle{
     color: #fff;
     text-align: center;
     height: 40px;
-    z-index: 1;
+    ;
 
 }
 
