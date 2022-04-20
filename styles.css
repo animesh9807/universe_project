@@ -49,7 +49,7 @@ section .text .subtitle{
 }
 
 .Home{
-    background: url("universe.jpg") no-repeat center;
+    background-color :black;
     height: 100vh;
     color: #fff;
     min-height: 500px;
