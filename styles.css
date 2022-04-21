@@ -111,7 +111,7 @@ section .text .subtitle{
 img {
   border-radius: 75px;
 }
-Section .first button{
+Section .first button .new{
   color: #fff;
   display: block;
   width: 160px!important;
