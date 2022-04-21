@@ -111,7 +111,7 @@ section .text .subtitle{
 img {
   border-radius: 75px;
 }
-button .new{
+.new{
   color: #fff;
   display: block;
   width: 160px!important;
@@ -128,9 +128,9 @@ button .new{
 	
 }
 
-button .new: hover{
-	color: crimson; 
-	ackground: none;
+.new: hover{
+  color: crimson; 
+  background: none;
 }
 
 
