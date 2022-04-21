@@ -49,8 +49,8 @@ section .text .subtitle{
 }
 
 .Home{
-    background-color :black;
-    height: 100vh;
+    background-color :white;
+    height: 80vh;
     color: #fff;
     min-height: 500px;
     background-size: cover;
